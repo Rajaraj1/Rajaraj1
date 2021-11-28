@@ -1,32 +1,29 @@
-
-
 <h2 align="center">
-  Welcome to Mukul Rajpoot's profile!
+  Welcome to Raja raj profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <p align="center">
-  <a href="https://github.com/mukulrajpoot262610?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mukulrajpoot262610"/></a>
-  <a href="https://github.com/mukulrajpoot262610?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mukulrajpoot262610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Rajaraj1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Rajaraj1"/></a>
+  <a href="https://github.com/Rajaraj1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Rajaraj1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
-  <li>I am Mukul Rajpoot, a 20 year old guy who loves💖 to code</li>
+  <li>I am Raja raj, a 20 year old guy who loves💖 to code</li>
   <li>I am a freelance full-stack developer 🖥️</li>
   <li>Currently, scratching my head in learning DevOps 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
   <li><b>Marital status:</b> Married with Next.js 💖</li>
-  <li>Check out my website: https://mukulrajpoot.vercel.app</li>
+  <li>Check out my website: https://rajaraj.com/</li>
 </ul>
-
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-|<img alt="mukulrajpoot262610's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulrajpoot262610&hide_border=true"/> |<img alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true"/>|
-|---|---|
+| <img alt="Rajaraj1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaraj1&hide_border=true"/> | <img alt="Rajaraj1's streak" src="https://github-readme-stats.vercel.app/api?username=Rajaraj1&show_icons=true&count_private=true"/> |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
@@ -67,6 +64,6 @@
 
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
 
-   <a href="mailto:mukulrajpoot262610@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://twitter.com/MukulRa52680412"><img alt="MongoDB" src ="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="mailto:rr702678@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raja-raj-ba424b209/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/Rajaraj59531542"><img alt="MongoDB" src ="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
