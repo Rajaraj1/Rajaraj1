@@ -17,7 +17,7 @@
   <li>Currently, scratching my head in learning DevOps 😅</li>
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
   <li><b>Marital status:</b> Married with Next.js 💖</li>
-  <li>Check out my website: https://rajaraj.com/</li>
+  <li>Check out my website: https://www.villagepur.com/</li>
 </ul>
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
